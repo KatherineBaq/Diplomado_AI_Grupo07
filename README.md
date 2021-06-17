@@ -7,15 +7,17 @@ This project try to create a simplified model  to  COVID detection using images 
 <img src="https://www.researchgate.net/profile/Tawsifur-Rahman/publication/343094700/figure/fig1/AS:915554529460225@1595296618682/Sample-X-ray-image-from-the-dataset-COVID-19-X-ray-image-A-normal-X-ray-image-B.ppm" width="1000" height="270">
 
 
+
+
+### Important aspects:
+1. The data could be called "standard" because images are usually taken with the patient in a frontal position. 
+
+## Relevant Tools and Libraries.
+<img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
+
 ### INTEGRANTES: 
 - Katherine Baquero
 - David Beltran
 - Johan Rodriguez
 - Sebastian Torres
-
-### Important aspects:
-1. The data is usually "standard" because the images are usually take with the patient in a frontal position. 
-
-## Relevant Tools and Libraries.
-<img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
 
