@@ -21,7 +21,7 @@ This project try to create a simplified model  to  COVID detection using images 
 
 ### Future works.
 1. Focus in the multiclass classification problem  trying to consider more complex techniques like GANS, and specialized neural networks like ChestNet to the transfer process.
-2. Create CNN visualizations to have an importan  *"explainability level"* of what areas of the images use the model to the covid dection.
+2. Create CNN visualizations to have an important  *"explainability level"* of what areas of the images use the model to the covid dection.
 
 ## Relevant Tools and Libraries.
 <img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
