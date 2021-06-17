@@ -19,6 +19,9 @@ This project try to create a simplified model  to  COVID detection using images 
 1.  The state of the art networks applied performs very well reaching almost a 97% of accuracy, recall and precision in the classifiation of images between two classes(Covid/ non covid). The results were validated with ROC and AUC curves as usual in the use case.
 2.  The multiclass problem was tried, but was particularly difficult for the models to detect differences between Pneumonia and Covid images.
 
+### Future works.
+1. Focus in the multiclass classification problem  trying to consider more complex techniques like GANS, and specialized neural networks like ChestNet to the transfer process.
+
 ## Relevant Tools and Libraries.
 <img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
 
