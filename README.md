@@ -2,7 +2,7 @@
 
 Covid19 is definitely one of the most importants events in the history of mankind. Many approaches and efforts have been tried to create effective ways to detect the presence or ausence of it in a patient.
 
-This project try to reproduce and simplify the COVID detection using images of radiology of the chest. 
+This project try to create a model to the COVID detection using images of radiology of the chest. 
 
 ### INTEGRANTES: 
 - Katherine Baquero
