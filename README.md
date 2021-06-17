@@ -13,6 +13,9 @@ This project try to create a simplified model  to  COVID detection using images 
 - Johan Rodriguez
 - Sebastian Torres
 
+### Important aspects:
+1. The data is usually "standard" because the images are usually take with the patient in a frontal position. 
+
 ## Relevant Tools and Libraries.
 <img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
 
