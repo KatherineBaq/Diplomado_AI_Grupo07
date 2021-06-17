@@ -13,7 +13,7 @@ This project try to create a simplified model  to  COVID detection using images 
 1. The data could be called "standard" because images are usually taken with the patient in a frontal position. 
 2. Images used to train the model were validated by an expert radiologist, but its important to comment how difficult is to check if a patient is infected or not just by  a radiology image. 
 3. The *"contrast"* aspect in those images can be a key point cuz some of then look  so blurry.
-4. 4. Even when the dataset is larger, some techniques like *"DataAugmentation"* is not discarded. 
+4. Even when the dataset is larger, some techniques like *"DataAugmentation"* is not discarded. 
 
 ## Relevant Tools and Libraries.
 <img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
