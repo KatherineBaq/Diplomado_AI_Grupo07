@@ -2,7 +2,7 @@
 
 Covid19 is definitely one of the most importants events in the history of mankind and  many approaches and efforts have been tried to create effective ways to detect the presence or ausence of it in a patient.
 
-This project try to create a simplified model using  to the COVID detection using images of radiology of the chest using a larger dataset ~ 5000 images. The model is based on *"transfer Learnig"* using some state of the art neural networks like: Resnet50, 
+This project try to create a simplified model using  to the COVID detection using images of radiology of the chest using a larger dataset ~ 5000 images. The model is based on *"transfer Learnig"* using some state of the art neural networks like: ResNet101, DenseNet121, VGG19. 
 
 ### INTEGRANTES: 
 - Katherine Baquero
