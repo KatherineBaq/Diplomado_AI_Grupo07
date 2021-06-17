@@ -15,6 +15,10 @@ This project try to create a simplified model  to  COVID detection using images 
 3. The *"contrast"* aspect in those images can be a key point cuz some of them look   a little bit blurry, so *"equalization"* techniques were considered.
 4. Even when the dataset is larger, some techniques like *"Data Augmentation"* are not discarded. 
 
+### Conclusions.
+1.  The state of the art networks applied performs very well reaching almost a 97% of accuracy, recall and precision. The results were validated with ROC and AUC curves.
+2.  
+
 ## Relevant Tools and Libraries.
 <img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
 
