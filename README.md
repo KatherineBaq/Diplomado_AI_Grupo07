@@ -15,8 +15,6 @@ This project try to create a simplified model  to  COVID detection using images 
 3. The *"contrast"* aspect in those images can be a key point cuz some of them look   a little bit blurry, so *"equalization"* techniques were considered.
 4. Even when the dataset is larger, some techniques like *"Data Augmentation"* are not discarded. 
 
-## Relevant Tools and Libraries.
-<img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
 
 ### Conclusions.
 1.  The state of the art networks applied performs very well reaching almost a 97% of accuracy, recall and precision in the classifiation of images between two classes(Covid/ non covid). The results were validated with ROC and AUC curves as usual in the use case.
@@ -26,10 +24,11 @@ This project try to create a simplified model  to  COVID detection using images 
 1. Focus in the multiclass classification problem  trying to consider more complex techniques like GANS, and specialized neural networks like ChestNet to the transfer process.
 2. Create CNN visualizations to have an important  *"explainability level"* of what areas of the images use the model to the covid dection.
 
+## Relevant Tools and Libraries.
+<img src="https://img.shields.io/badge/-Python-brightgreen"> |  <img src="https://img.shields.io/badge/-OpenCV-brightgreen"> | <img src="https://img.shields.io/badge/-Tensorflow-orange"> |  <img src="https://img.shields.io/badge/-Github-informational"> | <img src="https://img.shields.io/badge/-Sklearn-critical"> 
+
 ### INTEGRANTES: 
 - Katherine Baquero
 - David Beltran
 - Johan Rodriguez
 - Sebastian Torres
-
-
