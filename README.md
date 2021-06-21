@@ -1,4 +1,4 @@
-# Modelo Detección COVID19.
+# COVID19 Detection using chest X-ray images.
 
 Covid19 is definitely one of the most importants events in the history of mankind and  many approaches and efforts have been tried to create effective ways to detect the presence or ausence of it in a patient.
 
